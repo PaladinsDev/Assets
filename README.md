@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./miscellaneous/Home_I28D.png"/>
+</p>
+
 # Assets
 This repository is a dedicated collection of image and any other assets directly from Paladins and Hi-Rez stored here for easy access for developers to use for their Paladins related projects.
 
